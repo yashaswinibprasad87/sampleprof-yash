@@ -15,14 +15,12 @@ params:
     tagline: ''
     has_nav: true
     nav_title: Company
-    nav_links:
-    - label: Contact
-      url: "/contact"
+    nav_links: []
     has_social: true
     social_title: Community
     social_links: []
-    has_subscribe: true
-    subscribe_title: Subscribe
+    has_subscribe: false
+    subscribe_title: ''
     subscribe_content: ''
     content: ''
     links: []
