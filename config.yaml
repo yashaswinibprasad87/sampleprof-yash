@@ -11,39 +11,21 @@ params:
     - label: Home
       url: "/"
   footer:
-    logo_img: images/logo_alt.png
-    tagline: SaaS theme by Stackbit
+    logo_img: ''
+    tagline: ''
     has_nav: true
     nav_title: Company
     nav_links:
-    - label: About Us
-      url: "/about"
-    - label: Blog
-      url: "/blog"
-    - label: Sign Up
-      url: signup
     - label: Contact
       url: "/contact"
     has_social: true
     social_title: Community
-    social_links:
-    - label: Twitter
-      url: https://twitter.com/
-      new_window: true
-    - label: Instagram
-      url: https://www.instagram.com/
-      new_window: true
-    - label: LinkedIn
-      url: https://www.linkedin.com/
-      new_window: true
+    social_links: []
     has_subscribe: true
     subscribe_title: Subscribe
-    subscribe_content: Stay up to date with our latest developments.
-    content: "&copy; Stackbit. All rights reserved."
-    links:
-    - label: Made with Stackbit
-      url: https://www.stackbit.com
-      new_window: true
+    subscribe_content: ''
+    content: ''
+    links: []
 disableKinds:
 - RSS
 - taxonomy
